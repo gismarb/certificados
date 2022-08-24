@@ -1,2 +1,7 @@
-# certificados
-Repositório de certificados diversos (cursos, palestras, ações, eventos, etc).
+# Certificados (Diversos)
+Lista de certificados obtidos de cursos, palestras, ações, eventos - relacionados ou não com escopo técnico de TI (diversos).
+
+------
+
+
+
