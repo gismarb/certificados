@@ -9,7 +9,7 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 
 |Ctrl|Data|Instituição Certificadora|Certificado|Tipo|Modalidade|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1|22/09/2018|ABMES / Faculdades Asser (Rio Claro) – UNICEP|14ª Campanha da Responsabilidade Social do Ensino Superior Particular|Evento|Presencial|
+|1|22/09/2018|ABMES / Faculdades Asser (Rio Claro) – UNICEP|[14ª Campanha da Responsabilidade Social do Ensino Superior Particular](./Certificados/Campanha_Responsabilidade_Social_Ensino_Particular_2018.pdf)|Evento|Presencial|
 |2|22/09/2018|Faculdades Asser (Rio Claro) – UNICEP|Edição Rápida de Documentos com Libreoffice Writer|Curso|Presencial|
 |3|21/05/2019|Faculdades Asser (Rio Claro) – UNICEP|X Mostra de Iniciação Científica e Semana do Conhecimento|Evento|Presencial|
 |4|16/07/2019|Udemy|Introdução à Linguagem Javascript|Curso|Online|
