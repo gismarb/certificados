@@ -20,11 +20,11 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |9|16/02/2020|UNICEP (Rio Claro)|O poder de uma decisão|Palestra|Online|
 |10|18/07/2020|BlackRocks|Semana Arena BlackRocks|Evento|Online|
 |11|06/10/2020|Simpósio Regional em Tecnologia de Informação e Comunicação|Gerenciamento de Produção Fabril ONLINE – MES – Abordagem de TI|Apresentação de Trabalho|Online|
-|12|28/10/2020|UNICEP (Rio Claro)|"Liderança| Motivação e Competências para Administradores"|Palestra|Online|
+|12|28/10/2020|UNICEP (Rio Claro)|Liderança, Motivação e Competências para Administradores|Palestra|Online|
 |13|06/11/2020|Simpósio Regional em Tecnologia de Informação e Comunicação|Simpósio Regional em Tecnologia de Informação e Comunicação|Palestra|Online|
 |14|09/11/2020|UNICEP (Rio Claro)|Semana da Administração|Palestra|Online|
 |15|16/11/2020|DEV Samurai|Programador do Zero|Curso|Online|
-|16|25/11/2020|Jdev Treinamento On-Line|"Lógica de Programação| Algoritmos e Pseudocódigos (VisualG 3.0 e Portugol)"|Curso|Online|
+|16|25/11/2020|Jdev Treinamento On-Line|Lógica de Programação, Algoritmos e Pseudocódigos (VisualG 3.0 e Portugol)|Curso|Online|
 |17|20/02/2021|BEELAB|QA Week 4ª Edição|Evento|Online|
 |18|16/07/2021|UNICEP (Rio Claro)|Desenvolvimento de Plano de Negócios (Apresentação)|Apresentação de Trabalho|Online|
 |19|16/07/2021|UNICEP (Rio Claro)|Desenvolvimento de Plano de Negócios (Participação)|Palestra|Online|
