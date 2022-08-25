@@ -17,7 +17,7 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |8|11/12/2019|Faculdades Asser (Rio Claro) – UNICEP|[XI Mostra de Iniciação Científica e Semana do Conhecimento](./Certificados/UNICEP-Semana_CONHECIMENTO_GISMAR2019.pdf)|Evento|Presencial|
 |9|16/02/2020|UNICEP (Rio Claro)|[O poder de uma decisão](./Certificados/ASSER-2020-O_Poder_de_uma_decisao.pdf)|Palestra|Online|
 |10|18/07/2020|BlackRocks|[Semana Arena BlackRocks](./Certificados/Arena_Blocks_2020.pdf)|Evento|Online|
-|11|06/10/2020|[Simpósio Regional em Tecnologia de Informação e Comunicação|Gerenciamento de Produção Fabril ONLINE – MES – Abordagem de TI](./Certificados/Apresentacao_MES_Simposio_Regional_em_Tecnologia_e_Comunicacao_2020.pdf)|Apresentação de Trabalho|Online|
+|11|06/10/2020|[Simpósio Regional em Tecnologia de Informação e Comunicação|Gerenciamento de Produção Fabril ONLINE (MES) – Abordagem de TI](./Certificados/Apresentacao_MES_Simposio_Regional_em_Tecnologia_e_Comunicacao_2020.pdf)|Apresentação de Trabalho|Online|
 |12|28/10/2020|UNICEP (Rio Claro)|[Liderança, Motivação e Competências para Administradores](./Certificados/Palestra_Lideranca_Motivacao_Competencias_para_Administradores_UNICEP_Rio_Claro_2020.pdf)|Palestra|Online|
 |13|06/11/2020|Simpósio Regional em Tecnologia de Informação e Comunicação|[Simpósio Regional em Tecnologia de Informação e Comunicação](./Certificados/Simposio_Regional_em_Tecnologia_e_Comunicacao_2020.pdf)|Palestra|Online|
 |14|11/09/2020|UNICEP (Rio Claro)|[Semana da Administração](./Certificados/Semana_Administracao_UNICEP_Rio_Claro_2020.pdf)|Palestra|Online|
