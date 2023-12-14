@@ -31,5 +31,7 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |22|10/09/2021|UNICEP (Rio Claro)|[Mercado de trabalho e perspectivas com o advento da pandemia](./Certificados/UNICEP_SEMANA_ADM_2021_DIA_03.pdf)|Palestra|Online|
 |23|23/09/2021|Observatório Social do Brasil|[5º Congresso Pacto pelo Brasil Gestão Inteligente de Cidades](./Certificados/5_Congresso_Pacto_Pelo_Brasil_OSB.pdf)|Congresso|Online|
 |24|02/10/2021|ALFAHELIX / Udemy|[Boas práticas em PHP](./Certificados/UDEMY-BOAS_PRATICAS_PHP.pdf)|Curso|Online|
-|25|21/08/2022|HOTMART / MQFS|[Formação SQL Developer  - Firebird](./Certificados/Certificado_SQL_DEVELOPER_MQFS.pdf)|Curso|Online|
+|25|21/08/2022|HOTMART / MQFS|[Formação SQL Developer - Firebird](./Certificados/Certificado_SQL_DEVELOPER_MQFS.pdf)|Curso|Online|
+|26|20/01/2023|SQL Week Recife Conference|[SQL Week Conference 4ª Edição](./Certificados/SQL_WEEK_4_2023.pdf)|Evento|Online|
+|27|14/12/2023|HOTMART / MQFS|[Formação PSQL Developer - Firebird](./Certificados/Certificado_PSQL_DEVELOPER_MQFS.pdf)|Curso|Online|
 
