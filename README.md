@@ -38,11 +38,11 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |29|25/10/2023|SIMESPI Piracicaba – SP|[“De Diretrizes a Prática: Implementando a LGPD nas Empresas Módulo I”](./Certificados/pdf_lgpd_de_diretrizes_a_pratica_md_I.pdf)|Curso|Presencial|
 |30|31/10/2023|SIMESPI Piracicaba – SP|[“De Diretrizes a Prática: Navegando no Mundo dos Crimes Cibernéticos Módulo II”](./Certificados/pdf_lgpd_de_diretrizes_a_pratica_md_II.pdf)|Curso|Presencial|
 |31|11/06/2023|SIMESPI Piracicaba – SP|[“De Diretrizes a Prática: Estabelecendo Padrões de Segurança da Informação Módulo III”](./Certificados/pdf_lgpd_de_diretrizes_a_pratica_md_III.pdf)|Curso|Presencial|
-|32|16/02/2023|SENIOR – Universidade Corporativa|[Ferramenta de Banco de Dados Senior CBDS](/Certificados/HCM_SENIOR_certificado_CBDS.pdf)|Curso|Online|
-|33|14/03/2023|SENIOR – Universidade Corporativa|[Gerador de Relatórios – Módulo Básico](/Certificados/HCM_SENIOR_certificado_Gerador_Relatórios_Basico.pdf)|Curso|Online|
-|34|03/01/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Avançado](/Certificados/HCM_SENIOR_Ferramentas-Regras-LSP-AVANCADO.pdf)|Curso|Online|
-|35|12/03/2022|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Básico](/Certificados/HCM_SENIOR_Ferramentas-Regras-LSP-Basico.pdf)|Curso|Online|
-|36|01/02/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Intermediário](/Certificados/HCM_SENIOR_Ferramentas-Regras-LSP-INTERMEDIARIO.pdf)|Curso|Online|
-|37|04/04/2023|SENIOR – Universidade Corporativa|[Gerador de Relatórios – Módulo Intermediário](/Certificados/HCM_SENIOR_Gerador_Relatórios_Intermediário)|Curso|Online|
-|38|02/08/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Administração de Pessoal](/Certificados/HCM_SENIOR_Regras LSP - Administracao_Pessoal.pdf)|Curso|Online|
-|39|31/01/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Controle de Ponto](/Certificados/HCM_SENIOR_Regras LSP-Controle_de_Ponto.pdf)|Curso|Online|
+|32|16/02/2023|SENIOR – Universidade Corporativa|[Ferramenta de Banco de Dados Senior CBDS](./Certificados/HCM_SENIOR_certificado_CBDS.pdf)|Curso|Online|
+|33|14/03/2023|SENIOR – Universidade Corporativa|[Gerador de Relatórios – Módulo Básico](./Certificados/HCM_SENIOR_certificado_Gerador_Relatórios_Basico.pdf)|Curso|Online|
+|34|03/01/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Avançado](./Certificados/HCM_SENIOR_Ferramentas-Regras-LSP-AVANCADO.pdf)|Curso|Online|
+|35|12/03/2022|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Básico](./Certificados/HCM_SENIOR_Ferramentas-Regras-LSP-Basico.pdf)|Curso|Online|
+|36|01/02/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Intermediário](./Certificados/HCM_SENIOR_Ferramentas-Regras-LSP-INTERMEDIARIO.pdf)|Curso|Online|
+|37|04/04/2023|SENIOR – Universidade Corporativa|[Gerador de Relatórios – Módulo Intermediário](./Certificados/HCM_SENIOR_Gerador_Relatórios_Intermediário)|Curso|Online|
+|38|02/08/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Administração de Pessoal](./Certificados/HCM_SENIOR_Regras LSP - Administracao_Pessoal.pdf)|Curso|Online|
+|39|31/01/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Controle de Ponto](./Certificados/HCM_SENIOR_Regras LSP-Controle_de_Ponto.pdf)|Curso|Online|
