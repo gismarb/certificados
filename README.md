@@ -44,5 +44,5 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |35|12/03/2022|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Básico](./Certificados/HCM_SENIOR_Ferramentas-Regras-LSP-Basico.pdf)|Curso|Online|
 |36|01/02/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Intermediário](./Certificados/HCM_SENIOR_Ferramentas-Regras-LSP-INTERMEDIARIO.pdf)|Curso|Online|
 |37|04/04/2023|SENIOR – Universidade Corporativa|[Gerador de Relatórios – Módulo Intermediário](./Certificados/HCM_SENIOR_Gerador_Relatórios_Intermediário)|Curso|Online|
-|38|02/08/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Administração de Pessoal](./Certificados/HCM_SENIOR_Regras LSP - Administracao_Pessoal.pdf)|Curso|Online|
-|39|31/01/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Controle de Ponto](./Certificados/HCM_SENIOR_Regras LSP-Controle_de_Ponto.pdf)|Curso|Online|
+|38|02/08/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Administração de Pessoal](./Certificados/HCM_SENIOR_Regras_LSP-Administracao_Pessoal.pdf)|Curso|Online|
+|39|31/01/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Controle de Ponto](./Certificados/HCM_SENIOR_Regras_LSP-Controle_de_Ponto.pdf)|Curso|Online|
