@@ -46,3 +46,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |37|04/04/2023|SENIOR – Universidade Corporativa|[Gerador de Relatórios – Módulo Intermediário](./Certificados/HCM_SENIOR_Gerador_Relatórios_Intermediário.pdf)|Curso|Online|
 |38|02/08/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Administração de Pessoal](./Certificados/HCM_SENIOR_Regras_LSP-Administracao_Pessoal.pdf)|Curso|Online|
 |39|31/01/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Controle de Ponto](./Certificados/HCM_SENIOR_Regras_LSP-Controle_de_Ponto.pdf)|Curso|Online|
+|40|15/01/2024|Udemy|N/D|[Aprenda PowerShell do zero (Daniel Donda)](./Certificados/UDEMY_PowerShell_do_Zero_UC-ca24f9cd-3312-4e09-8777-1fc3d0e6cfcd.pdf)|Curso|Online|
