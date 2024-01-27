@@ -47,3 +47,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |38|02/08/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Administração de Pessoal](./Certificados/HCM_SENIOR_Regras_LSP-Administracao_Pessoal.pdf)|Curso|Online|
 |39|31/01/2023|SENIOR – Universidade Corporativa|[Linguagem Senior de Programação (LSP) – Módulo Controle de Ponto](./Certificados/HCM_SENIOR_Regras_LSP-Controle_de_Ponto.pdf)|Curso|Online|
 |40|15/01/2024|Udemy|[Aprenda PowerShell do zero (Daniel Donda)](./Certificados/UDEMY_PowerShell_do_Zero_UC-ca24f9cd-3312-4e09-8777-1fc3d0e6cfcd.pdf)|Curso|Online|
+|41|26/01/2024|Udemy|[Curso Oracle Developer SQL e PL/SQL (André Rosa)](./Certificados/UDEMY_Curso_Oracle_Developer_SQL_e_PL-SQL_UC-acedd344-53b9-4ee3-b5d3-8b96e4b06eb0.pdf)|Curso|Online|
