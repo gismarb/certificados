@@ -49,3 +49,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |40|15/01/2024|Udemy|[Aprenda PowerShell do zero (Daniel Donda)](./Certificados/UDEMY_PowerShell_do_Zero_UC-ca24f9cd-3312-4e09-8777-1fc3d0e6cfcd.pdf)|Curso|Online|
 |41|26/01/2024|Udemy|[Curso Oracle Developer SQL e PL/SQL (André Rosa)](./Certificados/UDEMY_Curso_Oracle_Developer_SQL_e_PL-SQL_UC-acedd344-53b9-4ee3-b5d3-8b96e4b06eb0.pdf)|Curso|Online|
 |42|02/02/2024|Udemy|[Curso completo de Banco de Dados e SQL sem mistérios! (Felipe Mafra)](./Certificados/UDEMY_Curso_Completo_de_Banco_de_Dados_e_SQL_UC-1b6c0a12-208a-4996-a183-b96c82023a8b.pdf)|Curso|Online|
+|43|10/02/2024|SQL Week Recife Conference|[SQL Week Conference 5ª Edição](./Certificados/SQL_WEEK_5_2024_65caa19dd745e.pdf)|Evento|Online|
