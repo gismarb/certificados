@@ -51,3 +51,6 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |42|02/02/2024|Udemy|[Curso completo de Banco de Dados e SQL sem mistérios! (Felipe Mafra)](./Certificados/UDEMY_Curso_Completo_de_Banco_de_Dados_e_SQL_UC-1b6c0a12-208a-4996-a183-b96c82023a8b.pdf)|Curso|Online|
 |43|10/02/2024|SQL Week Recife Conference|[SQL Week Conference 5ª Edição](./Certificados/SQL_WEEK_5_2024_65caa19dd745e.pdf)|Evento|Online|
 |44|17/05/2024|Iniciativa DBA|[Curso DBA SQL Server Junior](./Certificados/Certificado_Iniciativa_DBA_Curso_DBA_SQL_SERVER_JUNIOR_2024.pdf)|Evento|Online|
+|45|07/10/2024|FIA - Faculdade de Administração e Negócios|[Aplicação da Inteligência Artificial e o ChatGPT](/Certificados/FIA_Aplicacao_da_Inteligencia_Artificial_e_o_ChatGPT_Gismar-Pereira-Barbosa.pdf)|Curso|Presencial|
+|46|20/08/2025|PENSO|[Soberania de dados no Brasil e a lei Magnitsky](./Certificados/PALESTRA-SOBERANIA-DE-DADOS-PENSO.pdf)|Evento|Online|
+|47|22/11/2025|Udemy|[Preparatório para Certificação Linux LPIC-1 / Atualizado V5](./Certificados/UDEMY_PREPARATORIO_PARA_CERTIFICACAO_LINUX_LPIC-1_UC-90971d3c-f842-4440-9039-98c35ee7aca7.pdf)|Curso|Online|
