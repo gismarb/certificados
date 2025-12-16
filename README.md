@@ -54,3 +54,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |45|07/10/2024|FIA - Faculdade de Administração e Negócios|[Aplicação da Inteligência Artificial e o ChatGPT](/Certificados/FIA_Aplicacao_da_Inteligencia_Artificial_e_o_ChatGPT_Gismar-Pereira-Barbosa.pdf)|Curso|Presencial|
 |46|20/08/2025|PENSO|[Soberania de dados no Brasil e a lei Magnitsky](./Certificados/PALESTRA-SOBERANIA-DE-DADOS-PENSO.pdf)|Evento|Online|
 |47|22/11/2025|Udemy|[Preparatório para Certificação Linux LPIC-1 / Atualizado V5](./Certificados/UDEMY_PREPARATORIO_PARA_CERTIFICACAO_LINUX_LPIC-1_UC-90971d3c-f842-4440-9039-98c35ee7aca7.pdf)|Curso|Online|
+|48|16/12/2025|Udemy|[Programação Shell Script - Automatizando Rotinas no Linux](./Certificados/UDEMY-PROGRAMACAO_SHELL_SCRIPT_UC-d617acc1-13bc-4022-bb0e-874cd1ec8bce.pdf)|Curso|Online|
