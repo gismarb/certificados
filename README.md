@@ -55,3 +55,5 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |46|20/08/2025|PENSO|[Soberania de dados no Brasil e a lei Magnitsky](./Certificados/PALESTRA-SOBERANIA-DE-DADOS-PENSO.pdf)|Evento|Online|
 |47|22/11/2025|Udemy|[Preparatório para Certificação Linux LPIC-1 / Atualizado V5](./Certificados/UDEMY_PREPARATORIO_PARA_CERTIFICACAO_LINUX_LPIC-1_UC-90971d3c-f842-4440-9039-98c35ee7aca7.pdf)|Curso|Online|
 |48|16/12/2025|Udemy|[Programação Shell Script - Automatizando Rotinas no Linux](./Certificados/UDEMY-PROGRAMACAO_SHELL_SCRIPT_UC-d617acc1-13bc-4022-bb0e-874cd1ec8bce.pdf)|Curso|Online|
+|49|27/01/2026|MongoDB|[MongoDB and the Document Model](./Certificados/MONGODB_PFC_MONGODB_AND_THE_DOCUMENT_MODEL_-59be87da-99ee-4d09-8850-fe6b045df103.pdf)|Curso|Online|
+|50|27/01/2026|MongoDB|[MongoDB Modeling Intro](./Certificados/MONGODB_PFC_MONGODB_DATA_MODELING_INTRO_bba907f2-bbdb-4391-809d-874ab6467cef.pdf)|Curso|Online|
