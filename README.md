@@ -57,3 +57,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |48|16/12/2025|Udemy|[Programação Shell Script - Automatizando Rotinas no Linux](./Certificados/UDEMY-PROGRAMACAO_SHELL_SCRIPT_UC-d617acc1-13bc-4022-bb0e-874cd1ec8bce.pdf)|Curso|Online|
 |49|27/01/2026|MongoDB|[MongoDB and the Document Model](./Certificados/MONGODB_PFC_MONGODB_AND_THE_DOCUMENT_MODEL_-59be87da-99ee-4d09-8850-fe6b045df103.pdf)|Curso|Online|
 |50|27/01/2026|MongoDB|[MongoDB Modeling Intro](./Certificados/MONGODB_PFC_MONGODB_DATA_MODELING_INTRO_bba907f2-bbdb-4391-809d-874ab6467cef.pdf)|Curso|Online|
+|51|03/02/2026|MongoDB|[The MongoDB Shell](./Certificados/MONGODB_PFC_THE_MONGODB_SHELL-gismar-pereira-barbosa-f88705ad-10c6-403f-a132-9f497727823f.pdf)|Curso|Online|
