@@ -58,3 +58,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |49|27/01/2026|MongoDB|[MongoDB and the Document Model](./Certificados/MONGODB_PFC_MONGODB_AND_THE_DOCUMENT_MODEL_-59be87da-99ee-4d09-8850-fe6b045df103.pdf)|Curso|Online|
 |50|27/01/2026|MongoDB|[MongoDB Modeling Intro](./Certificados/MONGODB_PFC_MONGODB_DATA_MODELING_INTRO_bba907f2-bbdb-4391-809d-874ab6467cef.pdf)|Curso|Online|
 |51|03/02/2026|MongoDB|[The MongoDB Shell](./Certificados/MONGODB_PFC_THE_MONGODB_SHELL-gismar-pereira-barbosa-f88705ad-10c6-403f-a132-9f497727823f.pdf)|Curso|Online|
+|52|05/02/2026|MongoDB|[Connecting to a MongoDB Database](./Certificados/MONGODB_PFC_CONNECTING_TO_A_MONGODB_DATABASE_ae4a7f6e-5a2e-4c78-870a-5d0a7943921d.pdf)|Curso|Online|
