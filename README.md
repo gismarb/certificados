@@ -64,3 +64,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |55|09/02/2026|Alura|[Imersão Dados com Python II](./Certificados/IMERSAO_DADOS_COM_PYTHON_II_202602.pdf)|Evento|Online|
 |56|10/02/2026|MongoDB|[MongoDB CRUD Opeations - Modifying Query Results](./Certificados/MONGODB_POC_MONGODB_CRUD_OPERATIONS_MODIFYING_QUERY_RESULTS_8b290b4c-19fc-4068-a449-ab0e4519f076.pdf)|Curso|Online|
 |57|17/02/2026|Udemy|[Linux p/ Servidores Protheus + Arq. Instalação V. 12.1.2410+](./Certificados/UDEMY_Linux_Servidor_Protheus_v_12_1_2410-953f11cb-4906-4d31-8166-75d595463b49.pdf)|Curso|Online|
+|58|19/02/2026|MongoDB|[MongoDB Overview - Core Concepts and Architecture](./Certificados/MONGODB_POC_MONGODB_OVERVIEW_CORE_CONCEPTS_AND_ARCHITECTURE.pdf)|Curso|Online|
