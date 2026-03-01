@@ -66,3 +66,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |57|17/02/2026|Udemy|[Linux p/ Servidores Protheus + Arq. Instalação V. 12.1.2410+](./Certificados/UDEMY_Linux_Servidor_Protheus_v_12_1_2410-953f11cb-4906-4d31-8166-75d595463b49.pdf)|Curso|Online|
 |58|19/02/2026|MongoDB|[MongoDB Overview - Core Concepts and Architecture](./Certificados/MONGODB_POC_MONGODB_OVERVIEW_CORE_CONCEPTS_AND_ARCHITECTURE.pdf)|Curso|Online|
 |59|19/02/2026|MongoDB|[From Relational Model (SQL) to MongoDB's Document Model](./Certificados/MONGODB_POC_FROM_RELATIONAL_MODEL_(SQL)_TO_MONGODB_DOCUMENT_MODEL.pdf)|Curso|Online|
+|30|01/03/2026|Udemy|[Domine Administração de Bancos de Dados com DB2 IBM](./Certificados/UDEMY_DOMINE_ADMINISTRACAO_DB2_IBM_UC-95ceab75-3d81-4e2f-9354-4d1eb6fe8158.pdf)|Curso|Online|
