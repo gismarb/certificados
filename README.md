@@ -69,3 +69,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |60|01/03/2026|Udemy|[Domine Administração de Bancos de Dados com DB2 IBM](./Certificados/UDEMY_DOMINE_ADMINISTRACAO_DB2_IBM_UC-95ceab75-3d81-4e2f-9354-4d1eb6fe8158.pdf)|Curso|Online|
 |61|12/03/2026|MongoDB|[MongoDB Indexes](./Certificados/MONGODB_POC_MONGODB_INDEXES-a08208d0-3d90-4ef5-90a2-b07a854ce1f8-certificate.pdf)|Curso|Online|
 |62|13/03/2026|MongoDB|[MongoDB Indexes II](./Certificados/MONGODB_POC_MONGODB_INDEXES_II_gismar-pereira-barbosa-0e042359-4c94-4074-a658-d137477876b1-certificate.pdf)|Curso|Online|
+|63|18/03/2026|Udemy|[DBA SQL Server Essencial - Aprenda do Zero!](./Certificados/UDEMY_DBA_SQL_SERVER_ESSENCIAL_APRENDA_DO_ZERO_UC-9789b7e3-da85-4959-8ff8-50e5933d27f2.pdf)|Curso|Online|
