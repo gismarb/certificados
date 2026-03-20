@@ -73,3 +73,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |64|18/03/2026|Udemy|[Master Power BI - De A à Z](./Certificados/UDEMY_MASTER_PBI_UC-a81127f1-475b-492f-8ad7-ae011af71c6a.pdf)|Curso|Online|
 |65|19/03/2026|MongoDB|[MongoDB Logging Basics](./Certificados/MONGODB_POC_MONGODB_LOGGING_BASICS_gismar-pereira-barbosa-9fe5c13e-17c1-48e8-8327-6c9e5bd07264-certificate.pdf)|Curso|Online|
 |66|19/03/2026|Udemy|[Dominando scripts PowerShell para o SQL Server](./Certificados/UDEMY_DOMINANDO_SCRIPTS_POWERSHELL_PARA%20_SQL_SERVER_UC-3b53a2c6-d53f-4166-8fbe-cecd6fb85396.pdf)|Curso|Online|
+|67|20/03/2026|MongoDB|[MongoDB Database Administrator Tools](./Certificados/MONGODB_POC_MONGODB_DATABASE_ADMINISTRATOR_TOOLS_gismar-pereira-barbosa-501dce4e-34d1-4247-83a5-1135ae4dbfd6-certificate.pdf)|Curso|Online|
