@@ -76,3 +76,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |67|20/03/2026|MongoDB|[MongoDB Database Administrator Tools](./Certificados/MONGODB_POC_MONGODB_DATABASE_ADMINISTRATOR_TOOLS_gismar-pereira-barbosa-501dce4e-34d1-4247-83a5-1135ae4dbfd6-certificate.pdf)|Curso|Online|
 |68|23/03/2026|Udemy|[DBA Oracle Essencial - Aprenda do zero!](./Certificados/UDEMY_DBA_ORACLE_ESSENCIAL_UC-99b530a9-3b86-4b06-96bf-b673ef9a9c43.pdf)|Curso|Online|
 |69|23/03/2026|Udemy|[Business Intelligence SQL - ETL Integration Services](./Certificados/UDEMY_BUSINESS_INTELLIGENCE_SQL_UC-b548a0a5-5aab-4f2d-8997-e8bbf0dda216.pdf)|Curso|Online|
+|70|24/03/2026|Udemy|[Business Intelligence - SQL Server e Analysis Services](./Certificados/UDEMY_BUSINESS_INTELLIGENCE_SQL_UC-b548a0a5-5aab-4f2d-8997-e8bbf0dda216.pdf)|Curso|Online|
