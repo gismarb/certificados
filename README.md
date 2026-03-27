@@ -77,4 +77,5 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |68|23/03/2026|Udemy|[DBA Oracle Essencial - Aprenda do zero!](./Certificados/UDEMY_DBA_ORACLE_ESSENCIAL_UC-99b530a9-3b86-4b06-96bf-b673ef9a9c43.pdf)|Curso|Online|
 |69|23/03/2026|Udemy|[Business Intelligence SQL - ETL Integration Services](./Certificados/UDEMY_BUSINESS_INTELLIGENCE_SQL_UC-b548a0a5-5aab-4f2d-8997-e8bbf0dda216.pdf)|Curso|Online|
 |70|24/03/2026|Udemy|[Business Intelligence - SQL Server e Analysis Services](./Certificados/UDEMY_BUSINESS_INTELLIGENCE_SQL_E_ANALYSIS_SERVICES_UC-610c7112-3f3d-4a14-b002-b63490061658.pdf)|Curso|Online|
-|71|28/03/2026|MongoDB|[MongoDB Database Metrics & Monitoring](./Certificados/MONGODB_POC_MONGODB_DATABASE_METRICS_MONITORING_gismar-pereira-barbosa-695471aa-68e6-46fc-afc4-1ea6af711495-certificate.pdf)|Curso|Online|
+|71|26/03/2026|MongoDB|[MongoDB Database Metrics & Monitoring](./Certificados/MONGODB_POC_MONGODB_DATABASE_METRICS_MONITORING_gismar-pereira-barbosa-695471aa-68e6-46fc-afc4-1ea6af711495-certificate.pdf)|Curso|Online|
+|72|27/03/2026|MongoDB|[MongoDB Sef-Managed Backup & Recovery](./Certificados/MONGODB_POC_SELF_MANAGED_BACKUP_RECOVERY\)gismar-pereira-barbosa-06b7c09b-a876-4214-8808-04d5689baa8f-certificate.pdf)|Curso|Online|
