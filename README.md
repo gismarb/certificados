@@ -79,3 +79,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |70|24/03/2026|Udemy|[Business Intelligence - SQL Server e Analysis Services](./Certificados/UDEMY_BUSINESS_INTELLIGENCE_SQL_E_ANALYSIS_SERVICES_UC-610c7112-3f3d-4a14-b002-b63490061658.pdf)|Curso|Online|
 |71|26/03/2026|MongoDB|[MongoDB Database Metrics & Monitoring](./Certificados/MONGODB_POC_MONGODB_DATABASE_METRICS_MONITORING_gismar-pereira-barbosa-695471aa-68e6-46fc-afc4-1ea6af711495-certificate.pdf)|Curso|Online|
 |72|27/03/2026|MongoDB|[MongoDB Sef-Managed Backup & Recovery](./Certificados/MONGODB_POC_SELF_MANAGED_BACKUP_RECOVERY\)gismar-pereira-barbosa-06b7c09b-a876-4214-8808-04d5689baa8f-certificate.pdf)|Curso|Online|
+|73|27/03/2026|MongoDB|[MongoDB Sef-Managed Upgrades & Maintenance](./Certificados/MONGODB_POC_SELF_MANAGED_UPGRADES_MAINTENANCE_gismar-pereira-barbosa-6c98b614-43a9-4c1e-a167-fb127051c864-certificate.pdf)|Curso|Online|
