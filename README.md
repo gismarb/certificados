@@ -82,4 +82,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |73|27/03/2026|MongoDB|[MongoDB Sef-Managed Upgrades & Maintenance](./Certificados/MONGODB_POC_SELF_MANAGED_UPGRADES_MAINTENANCE_gismar-pereira-barbosa-6c98b614-43a9-4c1e-a167-fb127051c864-certificate.pdf)|Curso|Online|
 |74|02/04/2026|MongoDB|[Replication in MongoDB](./Certificados/MONGODB_POC_REPLICATION_IN_MONGODB_gismar-pereira-barbosa-9371a5eb-c8f0-4622-9e2c-ecbe8caff3cb-certificate.pdf)|Curso|Online|
 |75|31/03/2026|USP-Esalq|[Introdução ao Machine Learning com Python](./Certificados/USP_INTRODUCAO_MACHINE_LEARNING_PYTHON_GISMAR_certificadoDigital.png)|Curso|Online|
-
+|76|08/04/2026|Udemy|[Machine Learning e Data Science com Python](./Certificados/UDEMY_MACHINE_LEARNING_DATA_SCIENCE_PYTHON_UC-e11251c6-0819-4aef-9b28-5ad35105c025.pdf)|Curso|Online|
