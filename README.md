@@ -85,3 +85,4 @@ Lista de certificados obtidos de cursos| palestras| ações| eventos - relaciona
 |76|08/04/2026|Udemy|[Machine Learning e Data Science com Python](./Certificados/UDEMY_MACHINE_LEARNING_DATA_SCIENCE_PYTHON_UC-e11251c6-0819-4aef-9b28-5ad35105c025.pdf)|Curso|Online|
 |77|09/04/2026|MongoDB|[Self-Managed Database Security](./Certificados/MONGODB_POC_SELF_MANAGED_DATABASE_SECURITY_gismar-pereira-barbosa-4490ea52-35ca-4cc8-90c0-7f2ace3e214d-certificate.pdf)|Curso|Online|
 |78|23/04/2026|MongoDB|[MongoDB Indexing Design Fundamentals](./Certificados/MONGODB_POC_MONGODB_INDEXING_DESIGN_FUNDAMENTALS_SkillsCert20260423-32-d6m7av.pdf)|Curso|Online|
+|79|28/07/2026|Udemy|[Formação ADMIN/DEV Protheus (ADVPL/MVC/TLPP)](./Certificados/UDEMY_FORMACAO_ADMIN_DEV_PROTHEUS_UC-a0d91489-3221-4bca-8e47-8c2c1d1b27a3.pdf)|Curso|Online|
